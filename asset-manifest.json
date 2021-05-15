@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cdgamble/blank-react-page/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cdgamble/blank-react-page/static/js/main.ea547b93.chunk.js",
+    "main.js.map": "/cdgamble/blank-react-page/static/js/main.ea547b93.chunk.js.map",
+    "runtime-main.js": "/cdgamble/blank-react-page/static/js/runtime-main.3723e850.js",
+    "runtime-main.js.map": "/cdgamble/blank-react-page/static/js/runtime-main.3723e850.js.map",
+    "static/js/2.2f02951a.chunk.js": "/cdgamble/blank-react-page/static/js/2.2f02951a.chunk.js",
+    "static/js/2.2f02951a.chunk.js.map": "/cdgamble/blank-react-page/static/js/2.2f02951a.chunk.js.map",
+    "static/js/3.6b0494d6.chunk.js": "/cdgamble/blank-react-page/static/js/3.6b0494d6.chunk.js",
+    "static/js/3.6b0494d6.chunk.js.map": "/cdgamble/blank-react-page/static/js/3.6b0494d6.chunk.js.map",
+    "index.html": "/cdgamble/blank-react-page/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cdgamble/blank-react-page/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2f02951a.chunk.js.LICENSE.txt": "/cdgamble/blank-react-page/static/js/2.2f02951a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cdgamble/blank-react-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3723e850.js",
+    "static/js/2.2f02951a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ea547b93.chunk.js"
+  ]
+}
